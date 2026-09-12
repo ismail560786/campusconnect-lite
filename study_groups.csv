@@ -1,0 +1,9 @@
+GroupID,Subject,Department,Day,Time,Mode,Members,ContactInfo
+G001,Mathematics,General Studies,Monday,5:00 PM,Online,4,Join via campus WhatsApp group: bit.ly/math-group
+G002,Computer Programming,Computer Science,Tuesday,6:00 PM,Offline,6,Meet at Library Study Room 3
+G003,Physics,Engineering,Wednesday,4:00 PM,Online,3,Join via Zoom link: bit.ly/physics-group
+G004,English,General Studies,Thursday,3:00 PM,Offline,5,"Meet at Room B-12, Academic Block"
+G005,Business,Business Administration,Monday,7:00 PM,Online,4,Join via WhatsApp: bit.ly/business-group
+G006,Supply Chain,Business Administration,Friday,2:00 PM,Offline,3,Meet at Cafeteria Study Corner
+G007,Engineering,Engineering,Tuesday,5:30 PM,Online,5,Join via Zoom link: bit.ly/eng-group
+G008,Mathematics,General Studies,Saturday,11:00 AM,Offline,4,Meet at Library Study Room 1

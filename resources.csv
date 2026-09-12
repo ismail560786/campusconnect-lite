@@ -1,0 +1,13 @@
+ResourceID,Title,Subject,Department,Semester,Type,Description,Link
+R001,Calculus I - Limits & Continuity Notes,Mathematics,General Studies,1,Notes,"Clear beginner notes covering limits, continuity, and basic derivative rules",https://example.com/calc1-notes
+R002,Calculus I Midterm Past Paper 2023,Mathematics,General Studies,1,Past Paper,Previous midterm exam with questions on limits and derivatives,https://example.com/calc1-paper
+R003,Introduction to Programming - Loops & Functions Slides,Computer Programming,Computer Science,1,Slides,"Lecture slides covering loops, functions, and basic problem solving",https://example.com/prog-slides
+R004,Programming Assignment 2 - Functions Practice,Computer Programming,Computer Science,1,Assignment,Practice assignment on writing and using functions,https://example.com/prog-assignment2
+R005,Physics I - Laws of Motion Study Guide,Physics,Engineering,1,Study Guide,Summary guide explaining Newton's three laws with simple examples,https://example.com/physics-guide
+R006,Physics I Past Paper - Mechanics 2022,Physics,Engineering,1,Past Paper,Past exam paper focused on mechanics and motion problems,https://example.com/physics-paper
+R007,English Composition - Essay Writing Tutorial,English,General Studies,2,Tutorial,Step-by-step tutorial on structuring a strong academic essay,https://example.com/english-tutorial
+R008,English Grammar Basics Notes,English,General Studies,1,Notes,"Notes covering tenses, sentence structure, and common grammar mistakes",https://example.com/english-notes
+R009,Principles of Management Slides,Business,Business Administration,3,Slides,"Lecture slides on planning, organizing, and leading in management",https://example.com/business-slides
+R010,Supply Chain Fundamentals Study Guide,Supply Chain,Business Administration,4,Study Guide,"Overview guide covering procurement, logistics, and inventory basics",https://example.com/scm-guide
+R011,Engineering Mechanics Past Paper 2023,Engineering,Engineering,2,Past Paper,Past paper covering statics and force equilibrium problems,https://example.com/eng-mechanics-paper
+R012,Business Communication Notes,Business,Business Administration,2,Notes,"Notes on professional writing, emails, and presentation skills",https://example.com/business-comm-notes
