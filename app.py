@@ -21,7 +21,12 @@ from dotenv import load_dotenv
 # SETUP
 # ---------------------------------------------------------
 load_dotenv()
-API_KEY = os.getenv("GOOGLE_API_KEY") or st.secrets.get("GOOGLE_API_KEY", None)
+try:
+    SECRET_KEY = st.secrets["GOOGLE_API_KEY"]
+except Exception:
+    SECRET_KEY = None
+
+API_KEY = os.getenv("GOOGLE_API_KEY") or SECRET_KEY
 
 st.set_page_config(page_title="CampusConnect Lite", page_icon="🎓", layout="centered")
 
@@ -208,3 +213,4 @@ with tab4:
 
 st.divider()
 st.caption("Built by Team CampusConnect Lite — Ismail, Kashif, Hafsa & Ifra 🚀")
+
